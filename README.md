@@ -1,6 +1,6 @@
 # HBridge-DC-Motor-Control-using-Arduino
 
-# Task 6: Run Hbridge with DC motor using Arduino (Tinkercad)
+# Task 6: Run Hbridge with DC motor using Arduino (Tinkercad) 
 
 ## Description
 
